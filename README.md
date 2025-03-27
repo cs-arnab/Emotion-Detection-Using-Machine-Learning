@@ -29,7 +29,11 @@ The following machine learning models were implemented:
 
 ## Future Enhancements  
 - Implementing deep learning models like LSTMs.  
-- Using a larger, real-world dataset for better generalization.  
+- Using a larger, real-world dataset for better generalization.
+
+## Model Architecture
+![Emotion Detection Model](https://raw.githubusercontent.com/cs-arnab/Emotion-Detection-Using-Machine-Learning/main/Diagram.jpg)
+
 
 ## Installation & Usage  
 ### Requirements  
