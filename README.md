@@ -1,4 +1,5 @@
 # Emotion Detection Using Machine Learning  
+![Emotion Detection](https://github.com/cs-arnab/Emotion-Detection-Using-Machine-Learning/blob/main/Emotion%20Detection%20Image.png)
 
 ## Overview  
 This project focuses on emotion detection by classifying user comments into different emotional categories using machine learning techniques. The model is trained on a Kaggle dataset containing labeled text data and achieves high accuracy in predicting emotions.  
@@ -33,7 +34,6 @@ The following machine learning models were implemented:
 
 ## Model Architecture
 ![Emotion Detection Model](https://raw.githubusercontent.com/cs-arnab/Emotion-Detection-Using-Machine-Learning/main/Diagram.jpg)
-
 
 ## Installation & Usage  
 ### Requirements  
